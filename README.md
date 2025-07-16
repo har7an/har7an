@@ -36,9 +36,9 @@ privately.
 ## How I do things
 
 - **Languages**: [rust][c0], [bash][c1], [lua][c2], [C++][c3], [julia][c4],
-  [typst][c5], [C][c6], [ruby][c19], [matlab][c7]
-- **Tools**: [podman][c8]/[docker][c9], [git][c10], [GNU make][c11],
-  [GitLab][c12], [curl][c13], [ansible][c14], [nvim][c15], [jq][c18]
+  [typst][c5], [C][c6], [matlab][c7], [ruby][c19]
+- **Tools**: [neovim][c15], [podman][c8]/[docker][c9], [git][c10], [GNU
+  make][c11], [GitLab][c12], [curl][c13], [ansible][c14], [jq][c18]
 - **Conventions**: [Semantic Versioning][c16], [Conventional Commits][c17]
 
 [c0]: https://www.rust-lang.org/
