@@ -69,3 +69,18 @@ Also take a look at [my GitLab profile][01] to see what else I work on.
 [c17]: https://www.conventionalcommits.org/en/v1.0.0/
 [c18]: https://jqlang.org/
 [c19]: https://www.ruby-lang.org/en/
+
+
+## Highlights
+
+Some public projects I've contributed extended amounts of time to:
+
+- [zellij][d0]
+- [xplr][d1]
+- [tree-sitter-git-config][d2]
+- [topgrade][d3]
+
+[d0]: https://github.com/zellij-org/zellij
+[d1]: https://github.com/sayanarijit/xplr
+[d2]: https://github.com/the-mikedavis/tree-sitter-git-config
+[d3]: https://github.com/topgrade-rs/topgrade
