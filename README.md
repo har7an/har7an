@@ -2,10 +2,14 @@
 
 > That's me!
 
-If you want to find out more, I recommend you check out my [GitLab profile][01]
-because that's where I do most of my private development.
+If you want to find out more about my development activities, check out the
+following resources:
+
+1. [My public GitLab group][02] for personal projects
+1. [My GitLab profile][01] for additional information
 
 [01]: https://gitlab.com/hartan
+[02]: https://gitlab.com/hartang
 
 
 ## About me
