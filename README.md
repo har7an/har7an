@@ -23,18 +23,22 @@ where I want. I think that's learning.
 
 Various things, but preferrably:
 
-1. [Open Source Development][b1] in every shade and color
-1. Automation, mostly using scripts, to eliminate humans (and human errors)
-   from repetitive processes
-1. Containerize all the things, because "Works on my machine" is a horrible
-   developer and user experience in my opinion
+1. [Open Source Development][b1] in every shade and color (also check out my
+   [contributions to other projects][b5])
+1. [Automation][b2], mostly using [scripts][b3], to eliminate humans (and human
+   errors) from repetitive processes
+1. [Containerize all the things][b4], because "Works on my machine" is a
+   horrible developer and user experience in my opinion
 1. Write the docs, because someone has to do it and I can't stand googling for
    answers
 
-Also have a look at [my GitLab profile][01] to see what else I work on
-privately.
+Also take a look at [my GitLab profile][01] to see what else I work on.
 
-[b1]: https://github.com/har7an?tab=repositories&q=&type=fork
+[b1]: https://gitlab.com/hartang
+[b2]: https://gitlab.com/hartang/ci-snippets
+[b3]: https://gitlab.com/c8160/shell-helpers
+[b4]: https://gitlab.com/c8160/
+[b5]: https://github.com/har7an?tab=repositories&q=&type=fork
 
 
 ## How I do things
