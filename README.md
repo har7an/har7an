@@ -23,6 +23,11 @@ There's just too many to list them here, let me draw you a picture:
 
 ![Word cloud of my Open Source contributions][d0]
 
+> NOTE: In the original image, each project has a clickable hyperlink that
+> leads to an overview of my merge requests there. Due to security
+> considerations, this is currently blocked in GitHub. You can [download the
+> raw file][d0] and click the links there if you want.
+
 [d0]: ./assets/foss-cloud.svg
 
 
