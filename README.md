@@ -2,11 +2,8 @@
 
 > That's me!
 
-If you want to find out more about my development activities, check out the
-following resources:
-
-1. [My public GitLab group][02] for personal projects
-1. [My GitLab profile][01] for additional information
+If you want to find out more about my development activities, check out [my
+public GitLab group][02] with all my personal projects.
 
 [01]: https://gitlab.com/hartan
 [02]: https://gitlab.com/hartang
@@ -19,16 +16,26 @@ from poking around in systems and I hardly ever take the shortest path to get
 where I want. I think that's learning.
 
 
+## Open Source contributions
+
+
+There's just too many to list them here, let me draw you a picture:
+
+![Word cloud of my Open Source contributions][d0]
+
+[d0]: ./assets/foss-cloud.svg
+
+
 ## What I do
 
 Various things, but preferrably:
 
 1. [Open Source Development][b1] in every shade and color (also check out my
-   [contributions to other projects][b5])
+   [private Open Source projects][02])
 1. [Automation][b2], mostly using [scripts][b3], to eliminate humans (and human
    errors) from repetitive processes
-1. [Containerize all the things][b4], because "Works on my machine" is a
-   horrible developer and user experience in my opinion
+1. Containerize all the things, because "Works on my machine" is a horrible
+   developer and user experience in my opinion
 1. Write the docs, because someone has to do it and I can't stand googling for
    answers
 
@@ -36,18 +43,18 @@ Also take a look at [my GitLab profile][01] to see what else I work on.
 
 [b1]: https://gitlab.com/hartang
 [b2]: https://gitlab.com/hartang/ci-snippets
-[b3]: https://gitlab.com/c8160/shell-helpers
-[b4]: https://gitlab.com/c8160/
-[b5]: https://github.com/har7an?tab=repositories&q=&type=fork
+[b3]: https://gitlab.com/hartang/bash
 
 
 ## How I do things
 
-- **Languages**: [rust][c0], [bash][c1], [lua][c2], [C++][c3], [julia][c4],
-  [typst][c5], [C][c6], [matlab][c7], [ruby][c19]
-- **Tools**: [neovim][c15], [podman][c8]/[docker][c9], [git][c10], [GNU
+- **Languages**: [Rust][c0], [bash][c1], [typst][c5], [lua][c2], [C++][c3],
+  [Julia][c4], [C][c6], [Matlab][c7], [Dockerfile][c23], [OpenSCAD][c20],
+  [Ruby][c19], [Python][c21]
+- **Tools**: [podman][c8]/[docker][c9], [git][c10], [neovim][c15], [GNU
   make][c11], [GitLab][c12], [curl][c13], [ansible][c14], [jq][c18]
-- **Conventions**: [Semantic Versioning][c16], [Conventional Commits][c17]
+- **Conventions**: [Semantic Versioning][c16], [Conventional Commits][c17],
+  [REUSE][c22]
 
 [c0]: https://www.rust-lang.org/
 [c1]: https://www.gnu.org/software/bash/
@@ -69,18 +76,7 @@ Also take a look at [my GitLab profile][01] to see what else I work on.
 [c17]: https://www.conventionalcommits.org/en/v1.0.0/
 [c18]: https://jqlang.org/
 [c19]: https://www.ruby-lang.org/en/
-
-
-## Highlights
-
-Some public projects I've contributed extended amounts of time to:
-
-- [zellij][d0]
-- [xplr][d1]
-- [tree-sitter-git-config][d2]
-- [topgrade][d3]
-
-[d0]: https://github.com/zellij-org/zellij
-[d1]: https://github.com/sayanarijit/xplr
-[d2]: https://github.com/the-mikedavis/tree-sitter-git-config
-[d3]: https://github.com/topgrade-rs/topgrade
+[c20]: https://openscad.org/
+[c21]: https://www.python.org/
+[c22]: https://reuse.software
+[c23]: https://docs.docker.com/reference/dockerfile
