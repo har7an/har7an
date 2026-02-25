@@ -637,7 +637,7 @@
                             <use xlink:href="#g6E23B576AAA9C178DFE6EEB48B16684" x="27.16162109375" y="0" fill="#599eff" fill-rule="nonzero"/>
                             <use xlink:href="#gE2CE0AFAAC947F12D46F2466550596AF" x="32.634765625" y="0" fill="#599eff" fill-rule="nonzero"/>
                         </g>
-                        <a transform="matrix(1 0 0 1 4 -1.5750000000000002)" href="https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls?state=all&type=all&poster=112" xlink:href="https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls?state=all&type=all&poster=112">
+                        <a transform="matrix(1 0 0 1 4 -1.5750000000000002)" href="https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls?state=all&amp;type=all&amp;poster=112" xlink:href="https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls?state=all&amp;type=all&amp;poster=112">
                             <rect width="46.42236328125" height="15.947851562500002" fill="transparent" stroke="none"/>
                         </a>
                     </g>
@@ -685,7 +685,7 @@
                             <use xlink:href="#g6E23B576AAA9C178DFE6EEB48B16684" x="71.89208984375" y="0" fill="#599eff" fill-rule="nonzero"/>
                             <use xlink:href="#g6B06980B7FE9A6282E409408EEE93531" x="77.365234375" y="0" fill="#599eff" fill-rule="nonzero"/>
                         </g>
-                        <a transform="matrix(1 0 0 1 4 -1.5750000000000002)" href="https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/merge_requests/?state=all&author_username=hartan" xlink:href="https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/merge_requests/?state=all&author_username=hartan">
+                        <a transform="matrix(1 0 0 1 4 -1.5750000000000002)" href="https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/merge_requests/?state=all&amp;author_username=hartan" xlink:href="https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/merge_requests/?state=all&amp;author_username=hartan">
                             <rect width="89.81005859375" height="15.947851562500002" fill="transparent" stroke="none"/>
                         </a>
                     </g>
@@ -706,7 +706,7 @@
                             <use xlink:href="#g8B836D6E991BA7879650E0BD503DAA55" x="37.9951171875" y="0" fill="#599eff" fill-rule="nonzero"/>
                             <use xlink:href="#gF75E77B71A721A288DA898B3681222AB" x="42.69482421875" y="0" fill="#599eff" fill-rule="nonzero"/>
                         </g>
-                        <a transform="matrix(1 0 0 1 4 -1.5750000000000002)" href="https://source.puri.sm/Librem5/feedbackd/-/merge_requests/?state=all&author_username=hartan" xlink:href="https://source.puri.sm/Librem5/feedbackd/-/merge_requests/?state=all&author_username=hartan">
+                        <a transform="matrix(1 0 0 1 4 -1.5750000000000002)" href="https://source.puri.sm/Librem5/feedbackd/-/merge_requests/?state=all&amp;author_username=hartan" xlink:href="https://source.puri.sm/Librem5/feedbackd/-/merge_requests/?state=all&amp;author_username=hartan">
                             <rect width="57.083984375" height="15.947851562500002" fill="transparent" stroke="none"/>
                         </a>
                     </g>
